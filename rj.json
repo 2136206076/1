@@ -1,13 +1,13 @@
 [
-    {
-        "icon": "1"(可空),
-        "file_id": "http://bqm.125ks.cn/uploads/images/9dc20bc16c3f5075b819459866b86492.jpg"(可空),
-        "name_all": "安易加V速P器N",软件名
-        "size": "31.7 M",
-        "time": "2024-07-7",
-        "下载地址": "https://www.lanzouo.com/tp/iqI7N22unjwj",
-（下载地址:[https://l0s.lanzoum.com/i4axxxx3t8re?password=密码不可中文]）
-        "简介": "一个很优秀的专业游戏加速器，有强大的游戏加速引擎，支持大部分的游戏和软件，有强大的电竞专线，并且软件涵盖了全球各地的节点，为身处不同地区的用户提供了一个最优质的加速服务体验。（解锁注册送365天VIP已去更新）"（可空）,
-        "类型": "安卓"   [压缩包，安卓，Windows，Linux]
-    }
+  {
+    "ID": 1,
+    "icon": "http://bqm.125ks.cn/uploads/images/9dc20bc16c3f5075b819459866b86492.jpg",
+    "name_all": " 安易加V速P器N",
+    "size": "31.7M",
+    "time": "2024-07-7",
+    "duan": "",
+    "下载地址": "https://www.lanzouo.com/tp/iqI7N22unjwj",
+    "简介": "一个很优秀的专业游戏加速器，有强大的游戏加速引擎，支持大部分的游戏和软件，有强大的电竞专线，并且软件涵盖了全球各地的节点，为身处不同地区的用户提供了一个最优质的加速服务体验。（解锁注册送365天VIP已去更新）",
+    "类型": "安卓"
+  },
 ]
